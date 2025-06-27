@@ -1,6 +1,6 @@
 # AgentAI: A comprehensive survey on autonomous agents in distributed AI for industry 4.0
 
-![Alt text](images/Prisma.png)
+![Alt text](Prisma.png)
 
 ## Authors
 Francesco Piccialli, Diletta Chiaro, Sundas Sarwar, Donato Cerciello, Pian Qi, Valeria Mele
